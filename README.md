@@ -1,3 +1,6 @@
-# Arachno Arena: Test Table
+# Arachno Arena: phone builds
 
-A WebGL playtest build (no source). Play: https://audioyo.github.io/arachno-test-table/
+WebGL playtest builds (no source).
+
+- Board (main): https://audioyo.github.io/arachno-test-table/
+- Test Table (match-log Download): https://audioyo.github.io/arachno-test-table/table/
